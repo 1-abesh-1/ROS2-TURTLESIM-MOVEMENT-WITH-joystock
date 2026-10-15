@@ -1,0 +1,33 @@
+[2.027s] Invoking command in '/home/serabesh/task-2/src/joystick_reader': PYTHONPATH=/home/serabesh/task-2/build/joystick_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joystick_reader build --build-base /home/serabesh/task-2/build/joystick_reader/build install --record /home/serabesh/task-2/build/joystick_reader/install.log --install-scripts $base/lib/joystick_reader --single-version-externally-managed install_data
+[2.424s] running egg_info
+[2.424s] creating ../../build/joystick_reader/joystick_reader.egg-info
+[2.425s] writing ../../build/joystick_reader/joystick_reader.egg-info/PKG-INFO
+[2.452s] writing dependency_links to ../../build/joystick_reader/joystick_reader.egg-info/dependency_links.txt
+[2.452s] writing entry points to ../../build/joystick_reader/joystick_reader.egg-info/entry_points.txt
+[2.453s] writing requirements to ../../build/joystick_reader/joystick_reader.egg-info/requires.txt
+[2.490s] writing top-level names to ../../build/joystick_reader/joystick_reader.egg-info/top_level.txt
+[2.492s] writing manifest file '../../build/joystick_reader/joystick_reader.egg-info/SOURCES.txt'
+[2.496s] reading manifest file '../../build/joystick_reader/joystick_reader.egg-info/SOURCES.txt'
+[2.497s] writing manifest file '../../build/joystick_reader/joystick_reader.egg-info/SOURCES.txt'
+[2.498s] running build
+[2.498s] running build_py
+[2.498s] creating /home/serabesh/task-2/build/joystick_reader/build
+[2.498s] creating /home/serabesh/task-2/build/joystick_reader/build/lib
+[2.499s] creating /home/serabesh/task-2/build/joystick_reader/build/lib/joystick_reader
+[2.500s] copying joystick_reader/__init__.py -> /home/serabesh/task-2/build/joystick_reader/build/lib/joystick_reader
+[2.500s] running install
+[2.501s] running install_lib
+[2.502s] creating /home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages/joystick_reader
+[2.503s] copying /home/serabesh/task-2/build/joystick_reader/build/lib/joystick_reader/__init__.py -> /home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages/joystick_reader
+[2.506s] byte-compiling /home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages/joystick_reader/__init__.py to __init__.cpython-310.pyc
+[2.507s] running install_data
+[2.507s] creating /home/serabesh/task-2/install/joystick_reader/share/ament_index
+[2.507s] creating /home/serabesh/task-2/install/joystick_reader/share/ament_index/resource_index
+[2.508s] creating /home/serabesh/task-2/install/joystick_reader/share/ament_index/resource_index/packages
+[2.508s] copying resource/joystick_reader -> /home/serabesh/task-2/install/joystick_reader/share/ament_index/resource_index/packages
+[2.508s] copying package.xml -> /home/serabesh/task-2/install/joystick_reader/share/joystick_reader
+[2.509s] running install_egg_info
+[2.514s] Copying ../../build/joystick_reader/joystick_reader.egg-info to /home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages/joystick_reader-0.0.0-py3.10.egg-info
+[2.516s] running install_scripts
+[2.554s] writing list of installed files to '/home/serabesh/task-2/build/joystick_reader/install.log'
+[2.603s] Invoked command in '/home/serabesh/task-2/src/joystick_reader' returned '0': PYTHONPATH=/home/serabesh/task-2/build/joystick_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joystick_reader build --build-base /home/serabesh/task-2/build/joystick_reader/build install --record /home/serabesh/task-2/build/joystick_reader/install.log --install-scripts $base/lib/joystick_reader --single-version-externally-managed install_data

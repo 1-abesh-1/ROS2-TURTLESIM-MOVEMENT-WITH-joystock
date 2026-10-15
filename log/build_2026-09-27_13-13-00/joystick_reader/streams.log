@@ -1,0 +1,24 @@
+[0.621s] Invoking command in '/home/serabesh/task-2/src/joystick_reader': PYTHONPATH=/home/serabesh/task-2/build/joystick_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joystick_reader build --build-base /home/serabesh/task-2/build/joystick_reader/build install --record /home/serabesh/task-2/build/joystick_reader/install.log --install-scripts $base/lib/joystick_reader --single-version-externally-managed install_data
+[0.781s] running egg_info
+[0.781s] writing ../../build/joystick_reader/joystick_reader.egg-info/PKG-INFO
+[0.782s] writing dependency_links to ../../build/joystick_reader/joystick_reader.egg-info/dependency_links.txt
+[0.782s] writing entry points to ../../build/joystick_reader/joystick_reader.egg-info/entry_points.txt
+[0.782s] writing requirements to ../../build/joystick_reader/joystick_reader.egg-info/requires.txt
+[0.783s] writing top-level names to ../../build/joystick_reader/joystick_reader.egg-info/top_level.txt
+[0.786s] reading manifest file '../../build/joystick_reader/joystick_reader.egg-info/SOURCES.txt'
+[0.788s] writing manifest file '../../build/joystick_reader/joystick_reader.egg-info/SOURCES.txt'
+[0.788s] running build
+[0.788s] running build_py
+[0.788s] copying joystick_reader/joy_stick.py -> /home/serabesh/task-2/build/joystick_reader/build/lib/joystick_reader
+[0.789s] running install
+[0.789s] running install_lib
+[0.791s] copying /home/serabesh/task-2/build/joystick_reader/build/lib/joystick_reader/joy_stick.py -> /home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages/joystick_reader
+[0.792s] byte-compiling /home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages/joystick_reader/joy_stick.py to joy_stick.cpython-310.pyc
+[0.793s] running install_data
+[0.793s] running install_egg_info
+[0.795s] removing '/home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages/joystick_reader-0.0.0-py3.10.egg-info' (and everything under it)
+[0.797s] Copying ../../build/joystick_reader/joystick_reader.egg-info to /home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages/joystick_reader-0.0.0-py3.10.egg-info
+[0.798s] running install_scripts
+[0.813s] Installing joy_stick script to /home/serabesh/task-2/install/joystick_reader/lib/joystick_reader
+[0.813s] writing list of installed files to '/home/serabesh/task-2/build/joystick_reader/install.log'
+[0.834s] Invoked command in '/home/serabesh/task-2/src/joystick_reader' returned '0': PYTHONPATH=/home/serabesh/task-2/build/joystick_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/serabesh/task-2/install/joystick_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joystick_reader build --build-base /home/serabesh/task-2/build/joystick_reader/build install --record /home/serabesh/task-2/build/joystick_reader/install.log --install-scripts $base/lib/joystick_reader --single-version-externally-managed install_data
