@@ -1,0 +1,3 @@
+[console_scripts]
+joy_stick = joystick_reader.joy_stick:main
+
